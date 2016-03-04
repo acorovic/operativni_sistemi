@@ -91,6 +91,7 @@ int main()
     list<Racunar> racunari = u.getRacunari();
     list<Racunar>::iterator it;
     for(it = racunari.begin(); it != racunari.end(); it++) {
+        cout<<"usao"<<endl;
         cout << "disk racunara " << it->getDisk() <<endl;
         cout << "procesor racunara " << it->getProcesor() <<endl;
     }

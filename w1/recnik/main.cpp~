@@ -1,9 +1,3 @@
-/*
-Napraviti jednostavan program za prevodenje reci sa engleskog na srpski jezik.
-Nakon unosa reci sa standardnog ulaza, ispisuje  se prevod ukoliko
-unesena rec postoji u recniku.
-*/
-
 #include <iostream>
 #include <map>
 #include <string>

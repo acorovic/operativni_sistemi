@@ -1,8 +1,3 @@
-/*
-Uneti 5 celih brojeva sa standardnog ulaza.
-Koriscenjem STL algoritma sortirati brojeve u opadajucem redosledu
-*/
-
 #include <iostream>
 #include <algorithm>
 #include <vector>
