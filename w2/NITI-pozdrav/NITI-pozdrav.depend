@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457380047 source:/home/alexa/Desktop/operativni/operativni_sistemi/w2/NITI-pozdrav/main.cpp
+	<iostream>
+	<thread>
+	<string>
+

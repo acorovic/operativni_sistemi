@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1457380874 source:/home/alexa/Desktop/operativni/operativni_sistemi/w2/NITI-pokretanje_vise/main.cpp
+	<iostream>
+	<thread>
+
