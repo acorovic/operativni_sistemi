@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457781599 source:/home/alexa/Desktop/operativni/w1/T12_1/main.cpp
+	<iostream>
+	<thread>
+	<vector>
+

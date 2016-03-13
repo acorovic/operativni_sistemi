@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1457869606 source:/home/alexa/Desktop/operativni/w1/naopacke_matrica/main.cpp
+	<iostream>
+	<thread>
+	<vector>
+
