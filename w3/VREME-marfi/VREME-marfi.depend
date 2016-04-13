@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460576468 source:/home/alexa/Desktop/operativni/operativni_sistemi/w3/VREME-marfi/main.cpp
+	<iostream>
+	<thread>
+	<cmath>
+	<vector>
+

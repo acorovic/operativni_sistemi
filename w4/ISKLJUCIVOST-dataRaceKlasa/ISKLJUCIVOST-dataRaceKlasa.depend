@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1460580098 source:/home/alexa/Desktop/operativni/operativni_sistemi/w4/ISKLJUCIVOST-dataRaceKlasa/main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+
