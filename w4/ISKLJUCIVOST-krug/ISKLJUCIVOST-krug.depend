@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460754842 source:/home/alexa/Desktop/operativni/operativni_sistemi/w4/ISKLJUCIVOST-krug/main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<vector>
+	<cmath>
+
