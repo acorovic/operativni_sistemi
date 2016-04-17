@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460814436 source:/home/alexa/Desktop/operativni/operativni_sistemi/w6/T34-parking3x/main.cpp
+	<iostream>
+	<thread>
+	<mutex>
+	<condition_variable>
+	<cmath>
+

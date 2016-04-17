@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460756022 source:/home/alexa/Desktop/operativni/operativni_sistemi/w5/USLOVNA-aPreB/main.cpp
+	<iostream>
+	<condition_variable>
+	<mutex>
+	<thread>
+

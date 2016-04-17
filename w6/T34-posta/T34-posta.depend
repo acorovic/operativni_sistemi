@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1460907975 source:/home/alexa/Desktop/operativni/operativni_sistemi/w4/T34-posta/main.cpp
+	<iostream>
+	<thread>
+	<condition_variable>
+	<mutex>
+	<cmath>
+

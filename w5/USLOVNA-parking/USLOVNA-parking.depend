@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1460798727 source:/home/alexa/Desktop/operativni/operativni_sistemi/w5/USLOVNA-parking/main.cpp
+	<iostream>
+	<thread>
+	<condition_variable>
+	<mutex>
+
