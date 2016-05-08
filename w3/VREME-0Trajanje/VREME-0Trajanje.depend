@@ -1,6 +1,0 @@
-# depslib dependency file v1.0
-1460572761 source:/home/alexa/Desktop/operativni/operativni_sistemi/w3/VREME-0Trajanje/main.cpp
-	<iostream>
-	<thread>
-	<cmath>
-
